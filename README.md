@@ -3,6 +3,17 @@ A module for converting spoken English to written English. The layout/Class diag
 
 ![Package Layout](/images/layout.PNG)
 
+## Features Implemented:
+* Converted numerical words to digits.
+    - double five == 55
+    - triple nine eight four == 99984
+* Decontraction of words.
+* Currency representation.
+* Units Abbrevations.
+    - kilometer == km
+    - meter == m
+
+
 ## Examples:
 Let's have a look at some examples to gain more understanding.Below is the piece of spoken text taken for understading. 
 ```
@@ -71,16 +82,6 @@ Let's have a look at some examples to gain more understanding.Below is the piece
     My weight is 54kg. I live 16 kilometers away from my office.
 ```
 Observe, kilometers didn't got abbravated to kg , as only weights dictionary was passed.
-
-## Features Implemented:
-* Converted numerical words to digits.
-    - double five == 55
-    - triple nine eight four == 99984
-* Decontraction of words.
-* Currency representation.
-* Units Abbrevations.
-    - kilometer == km
-    - meter == m
 
 ## Future Expansion:
 * Text Abbreventions
