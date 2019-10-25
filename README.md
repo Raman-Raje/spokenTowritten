@@ -1,7 +1,7 @@
 # Spoken2written
 A module for converting spoken English to written English. The layout(Class Diagram) of package is as follows.
 
-![Package Layout](\images\layout.PNG)
+![Package Layout](/images/layout.PNG)
 
 
 
