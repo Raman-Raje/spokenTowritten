@@ -9,20 +9,26 @@ Let's have a look at some examples to gain more understanding.
 1. Decontraction:
 ```python
 spoken_text = """
-    My mobile number is double nine nine five one six seven triple one. The cost of mobile is 48 thousand rupees. 
+    My mobile number is double nine nine five one six seven triple one. 
+    The cost of mobile is 48 thousand rupees. 
     It is not easy to crack UPSC examination, people do give double attempts to clear it.
-    Double standards jokes aren't tolerated here.My weight is 54 kilogram.I live 16 kilometers away from my office.
+    Double standards jokes aren't tolerated here.
+    My weight is 54 kilogram.I live 16 kilometers away from my office.
     """ 
+
+
+# decontraction: 
+
 spoken_text = Decontraction.decontraction(spoken_text)
 print("Text after decontraction:")
 print(spoken_text)
 ```
 ```
-Text after decontraction:
-
-    My mobile number is double nine nine five one six seven triple one. The cost of mobile is 48 thousand rupees.
+    My mobile number is double nine nine five one six seven triple one.
+    The cost of mobile is 48 thousand rupees.
     It is not easy to crack UPSC examination, people do give double attempts to clear it.
-    Double standards jokes are not tolerated here.My weight is 54 kilogram.I live 16 kilometers away from my office.
+    Double standards jokes are not tolerated here.
+    My weight is 54 kilogram.I live 16 kilometers away from my office.
 ```
 
 
