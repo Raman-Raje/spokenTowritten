@@ -91,4 +91,4 @@ Observe, kilometers didn't got abbravated to kg , as only weights dictionary was
 * Mathematical symbol representation.
     - plus,minus,division,modulo,integration,etc.
 * Emoji Implementation.
-* Add class for short notes preparation.
+* Add features for short notes preparation.
