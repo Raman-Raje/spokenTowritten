@@ -91,19 +91,20 @@ class Text2Digits():
         digits_phrase = "".join([sstr + punct + " " for sstr, punct in zip(digits_arr, punctuation_arr)])
 
         #code for replacement of 1000 = 1k
-        original = digits_phrase
-        try:
-            if self.amount_abbr:
+        
+        if self.amount_abbr:
+            original = digits_phrase
+            try:
                 digits_phrase = digits_phrase.replace("000000000 ","B ")
                 digits_phrase = digits_phrase.replace("000000000.","B.")
                 digits_phrase = digits_phrase.replace("000000 ","M ")
                 digits_phrase = digits_phrase.replace("000000.","M.")
                 digits_phrase = digits_phrase.replace("000 ","K ")
                 digits_phrase = digits_phrase.replace("000.","K.")
-                
                 return digits_phrase.strip()
-        except:    
-            return original.strip()
+            except:    
+                return original.strip()
+        return digits_phrase.strip()
 
     """
     This function takes in a phrase and outputs an array of substring split by punctuation and an array of
