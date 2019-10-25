@@ -84,6 +84,7 @@ Let's have a look at some examples to gain more understanding.Below is the piece
 Observe, kilometers didn't got abbravated to kg , as only weights dictionary was passed.
 
 ## Future Expansion:
+The below features can be added by adding respective class without prior testing.
 * Text Abbreventions
     - Representing text using short form. i.e Thank you so much == tysm
     - Central Beauro of India == CBI
