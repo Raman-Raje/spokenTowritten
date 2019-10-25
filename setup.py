@@ -13,7 +13,7 @@ setup(
   author = 'Raman Shinde',                   # Type in your name
   author_email = 'raman.shinde15@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Raman-Raje/spoken2written',   # Provide either the link to your github or to your website
-  #download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Raman-Raje/spoken2written/archive/v_1.tar.gz',    # I explain this later on
   install_requires=[            # I get to this in a second
           'forex-python',
       ],
