@@ -3,11 +3,11 @@ A module for converting spoken English to written English. The layout/Class diag
 
 ![Package Layout](/images/layout.PNG)
 
-##Examples:
+## Examples:
 Let's have a look at some examples to gain more understanding.
 
 1. Decontraction:
-'''
+'''python
 spoken_text = """
     My mobile number is double nine nine five one six seven triple one. The cost of mobile is 48 thousand rupees. 
     It is not easy to crack UPSC examination, people do give double attempts to clear it.
