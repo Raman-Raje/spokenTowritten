@@ -90,7 +90,7 @@ The below features can be added by adding respective class without prior testing
     - Central Beauro of India == CBI
     - et cetera == Etc.
 * Mathematical symbol representation.
-    - plus,minus,division,modulo,integration,etc.
+    - plus,minus,division,modulo,integration,differentiation,etc.
 * Emoji Implementation.
 * Add features for short notes preparation.
 
