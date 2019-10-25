@@ -65,12 +65,12 @@ Let's have a look at some examples to gain more understanding.Below is the piece
 **Output**
 ```
     My mobile number is 9995167111.
-    The cost of mobile is₹ 48000.
+    The cost of mobile is ₹48000.
     It is not easy to crack UPSC examination, people do give double attempts to clear it.
     Double standards jokes are not tolerated here.
-    My weight is 54 kg. I live 16 kilometers away from my office.
+    My weight is 54kg. I live 16 kilometers away from my office.
 ```
-Observe, kilometers didn't got abbravated as only weights dictionary was passed.
+Observe, kilometers didn't got abbravated to kg , as only weights dictionary was passed.
 
 ## Features Implemented:
 * Converted numerical words to digits.
