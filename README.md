@@ -93,3 +93,9 @@ The below features can be added by adding respective class without prior testing
     - plus,minus,division,modulo,integration,etc.
 * Emoji Implementation.
 * Add features for short notes preparation.
+
+## Referances:
+* https://stackoverflow.com/questions/1471994/what-is-setup-py#targetText=setup.py%20is%20a%20python,%24%20pip%20install%20.
+* https://stackoverflow.com/questions/38156956/replace-all-occurrences-that-match-regular-expression
+* https://www.easymarkets.com/int/learn-centre/discover-trading/currency-acronyms-and-abbreviations/
+
