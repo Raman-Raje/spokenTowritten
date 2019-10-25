@@ -28,7 +28,49 @@ Let's have a look at some examples to gain more understanding.Below is the piece
     My weight is 54 kilogram.I live 16 kilometers away from my office.
 ```
 ### numbers to digit coversion
-
+**Code**
+```
+    spoken_text = Text2Digits().convert(spoken_text)
+    print(spoken_text)
+```
+**Output**
+```
+    My mobile number is 9995167111.
+    The cost of mobile is 48000 rupees.
+    It is not easy to crack UPSC examination, people do give double attempts to clear it.
+    Double standards jokes are not tolerated here.
+    My weight is 54 kilogram. I live 16 kilometers away from my office.
+```
+### Currency Symbol
+**Code**
+```
+    spoken_text = Currency().currency(spoken_text)
+    print(spoken_text)
+```
+**Output**
+```
+    My mobile number is 9995167111.
+    The cost of mobile is ₹48000.
+    It is not easy to crack UPSC examination, people do give double attempts to clear it.
+    Double standards jokes are not tolerated here.
+    My weight is 54 kilogram. I live 16 kilometers away from my office.
+```
+### Units abbrevation
+**Code**
+```
+    # dictionary of unit needs to pass explicitly {unit:abbrevation}
+    spoken_text = Units.unit(spoken_text,WEIGHTS)
+    print(spoken_text)
+```
+**Output**
+Observe, kilometers didn't got abbravated as only weights dictionary was passed.
+```
+    My mobile number is 9995167111.
+    The cost of mobile is₹ 48000.
+    It is not easy to crack UPSC examination, people do give double attempts to clear it.
+    Double standards jokes are not tolerated here.
+    My weight is 54 kg. I live 16 kilometers away from my office.
+```
 
 
 ## Features Implemented:
