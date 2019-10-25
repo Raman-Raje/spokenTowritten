@@ -17,6 +17,13 @@ spoken_text = Decontraction.decontraction(spoken_text)
 print("Text after decontraction:")
 print(spoken_text)
 ```
+```
+Text after decontraction:
+
+    My mobile number is double nine nine five one six seven triple one. The cost of mobile is 48 thousand rupees.
+    It is not easy to crack UPSC examination, people do give double attempts to clear it.
+    Double standards jokes are not tolerated here.My weight is 54 kilogram.I live 16 kilometers away from my office.
+```
 
 
 
