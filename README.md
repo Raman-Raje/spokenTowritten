@@ -17,14 +17,12 @@ A module for converting spoken English to written English. The layout(Class Diag
     - meter == m
 
 ## Future Features Expansion:
-1. Text Abbreventions
+* Text Abbreventions
     - Representing text using short form. i.e Thank you so much == tysm
     - Central Beauro of India == CBI
     - et cetera == Etc.
-2. Units Representation
-    - Kilometer == Km
-    - Weights and measurement units.
-3. Mathematical symbol representation.
+
+* Mathematical symbol representation.
     - plus,minus,division,modulo,integration,etc.
-4. Emoji Implementation.
-5. Can add features for short notes preparation.
+* Emoji Implementation.
+* Can add features for short notes preparation.
