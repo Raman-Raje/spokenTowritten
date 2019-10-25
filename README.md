@@ -9,6 +9,7 @@ A module for converting spoken English to written English. The layout/Class diag
     - triple nine eight four == 99984
     - one nought one == 101
     - double 'B' == BB
+    - one million == 1M
 * Decontraction of words.
 * Currency representation.
 * Units Abbrevations.
