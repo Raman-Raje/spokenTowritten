@@ -92,3 +92,8 @@ Observe, kilometers didn't got abbravated to kg , as only weights dictionary was
     - plus,minus,division,modulo,integration,etc.
 * Emoji Implementation.
 * Can add features for short notes preparation.
+
+
+## Referances:
+* https://github.com/careless25/text2digits
+* https://stackoverflow.com/questions/1471994/what-is-setup-py#targetText=setup.py%20is%20a%20python,%24%20pip%20install%20
