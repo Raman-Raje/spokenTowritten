@@ -7,6 +7,8 @@ A module for converting spoken English to written English. The layout/Class diag
 * Converted numerical words to digits.
     - double five == 55
     - triple nine eight four == 99984
+    - one nought one == 101
+    - double 'B' == BB
 * Decontraction of words.
 * Currency representation.
 * Units Abbrevations.
