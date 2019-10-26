@@ -90,7 +90,7 @@ Observe, kilometers didn't got abbravated to kg , as only weights dictionary was
 The below features can be added by adding respective class without prior testing.
 * Text Abbreventions
     - Representing text using short form. i.e Thank you so much == tysm
-    - Central Beauro of India == CBI
+    - Central Bureau of Investigation == CBI
     - et cetera == Etc.
 * Mathematical symbol representation.
     - plus,minus,division,modulo,integration,differentiation,etc.
