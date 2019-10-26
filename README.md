@@ -91,7 +91,7 @@ The below features can be added by adding respective class without prior testing
 * Text Abbreventions
     - Representing text using short form. i.e Thank you so much == tysm
     - Central Bureau of Investigation == CBI
-    - et cetera == Etc.
+    - et cetera == etc.
 * Mathematical symbol representation.
     - plus,minus,division,modulo,integration,differentiation,etc.
 * Emoji Implementation.
