@@ -1,4 +1,4 @@
-# Spoken2written
+# spokenTowritten
 A module for converting spoken English to written English. The layout/Class diagram of package is as follows.
 
 ![Package Layout](/images/layout.PNG)
@@ -18,10 +18,10 @@ A module for converting spoken English to written English. The layout/Class diag
 
 
 ## Examples:
-Let's have a look at some examples to gain more understanding.Below is the piece of spoken text taken for understading. 
+Let's have a look at some examples to gain more understanding.Below is the piece of spoken text taken for understading.
 ```
-    My mobile number is double nine nine five one six seven triple one. 
-    The cost of mobile is 48 thousand rupees. 
+    My mobile number is double nine nine five one six seven triple one.
+    The cost of mobile is 48 thousand rupees.
     It is not easy to crack UPSC examination, people do give double attempts to clear it.
     Double standards jokes aren't tolerated here.
     My weight is 54 kilogram.I live 16 kilometers away from my office.

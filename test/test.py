@@ -1,5 +1,5 @@
-from spoken2written.utils import Units,Currency,Decontraction
-from spoken2written.text2digits import Text2Digits
+from spokenTowritten.utils import Units,Currency,Decontraction
+from spokenTowritten.text2digits import Text2Digits
 
 DISTANCE = {
     'centimeter':'cm',
