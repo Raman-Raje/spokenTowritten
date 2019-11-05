@@ -7,12 +7,12 @@ with open("README.md", 'r') as f:
 setup(
   name = 'spokenTowritten',
   packages = ['spokenTowritten'],
-  version = '1.0',
+  version = '1.1',
   license='MIT',        # https://help.github.com/articles/licensing-a-repository
   description = long_description,   # Give a short description about your library
   author = 'Raman Shinde',
   author_email = 'raman.shinde15@gmail.com',
-  url = 'https://github.com/Raman-Raje/spoken2written',   # Provide either the link to your github or to your website
+  url = 'https://github.com/Raman-Raje/spokenTowritten',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Raman-Raje/spoken2written/archive/v_1.tar.gz',
   install_requires=[
           'forex-python',
