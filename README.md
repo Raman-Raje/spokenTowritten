@@ -3,6 +3,13 @@ A module for converting spoken English to written English. The layout/Class diag
 
 ![Package Layout](/images/layout.PNG)
 
+## Installation:
+Run this command in terminal
+```
+pip install spokenTowritten
+```
+This package has dependancy on forex-python. Please check the requirement.txt for further details.
+
 ## Features Implemented:
 * Converted numerical words to digits.
     - double five == 55
